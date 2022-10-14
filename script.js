@@ -1,3 +1,9 @@
+/**
+ * @author Nikkolas Glover 
+ * GTID: 903743020
+ * LMC 2700 - Fall 2022
+ */
+
 let allMovies = [];
 
 //Define a movie class with parameters title (string), rating (number) and haveWatched (boolean)
